@@ -1048,8 +1048,8 @@
     "app_type": "flashcard-study-app",
     "pr_number": 123,
     "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/123",
-    "tx_hash": null,
-    "vault_address": null,
-    "paid_at": null
+    "tx_hash": "0x830e92e7a06b1c45adf82f44e898e0d575db0b890c24f65e6602313bc2f4e65f",
+    "vault_address": "0x64E27CEe8d5Db3B7A33C2F57B268ad43119AE446",
+    "paid_at": "2026-05-29T17:23:58.121Z"
   }
 ]
